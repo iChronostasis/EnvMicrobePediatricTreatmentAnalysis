@@ -1,4 +1,4 @@
-# EnvMicrobePediatricTreatmentAnalysis
+# EnvMicrobePediatricTreatmentAnalysis<sup>XMBD</sup>
 
 This repository contains the R and Bash script implementations used in the analysis of whole-genome shotgun sequencing data, as described in the article "Whole-Genome Shotgun Sequencing Unravels the Influence of Environmental Microbial Co-Infections on the Treatment Efficacy for Severe Pediatric Infectious Diseases."
 
